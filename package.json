@@ -1,19 +1,18 @@
-{ 
-  
-  "dependencies": {
-    "ama-eth": "^4.1.0"
-  },
+{
   "name": "nftss-tea",
+  "version": "4.1.0",
   "description": "",
-  "version": "4.0.0",
   "main": "index.js",
+  "dependencies": {
+    "yunteadao": "^1.0.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ensamm/nftss-tea"
+    "url": "git+https://github.com/ensamm/nftss-tea.git"
   },
   "author": "",
   "license": "ISC",
@@ -21,3 +20,4 @@
     "url": "https://github.com/ensamm/nftss-tea/issues"
   },
   "homepage": "https://github.com/ensamm/nftss-tea#readme"
+}
